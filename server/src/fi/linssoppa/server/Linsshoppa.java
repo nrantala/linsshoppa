@@ -1,4 +1,4 @@
-package fi.linsshoppa;
+package fi.linssoppa.server;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
